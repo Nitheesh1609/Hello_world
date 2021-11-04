@@ -17,7 +17,7 @@ also given a talk on the process of creating this kernel module
 # This project requires a nightly Rust build
 rustup default nightly
 
-# Run the bash script which makes, inserts and removes the module and prints the relevant dmesg output
+# Run the bash script to make, insert and remove the module and print the relevant dmesg output
 ./test.sh
 
 ```

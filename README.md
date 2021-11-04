@@ -1,4 +1,4 @@
-# Simple Ketnel Module in Rust
+# Simple Kernel Module in Rust
 Crate with an example of a kernel module in Rust
 
 ## What does this crate actually do?

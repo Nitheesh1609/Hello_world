@@ -6,8 +6,8 @@ This repo is a Makefile with a Rust project that, using Kbuild, the kernel's bui
 a kernel module file named `hello.ko`.
 
 This repo takes inspiration from user jbaublitz's repository https://github.com/jbaublitz/knock-out, who has 
-also given a talk on the process of creating this kernel module 
-[at DevConf.cz 2020](https://www.youtube.com/watch?v=oacmnKlWZT8&t=32s).
+also given a talk on the process of creating this kernel module at 
+[DevConf.cz 2020](https://www.youtube.com/watch?v=oacmnKlWZT8&t=32s).
 
 ## Instructions for party parrot
 ```

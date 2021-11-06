@@ -9,7 +9,7 @@ This repo takes inspiration from user jbaublitz's repository https://github.com/
 also given a talk on the process of creating this kernel module at 
 [DevConf.cz 2020](https://www.youtube.com/watch?v=oacmnKlWZT8&t=32s).
 
-## Instructions for party parrot
+## Instructions for loading the module
 ```
 # Make sure Rust is installed via rustup
 # See https://rustup.rs/ for instructions

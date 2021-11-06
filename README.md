@@ -1,7 +1,6 @@
 # Simple Kernel Module in Rust
 Crate with an example of a kernel module in Rust
 
-## What does this crate actually do?
 This repo is a Makefile with a Rust project that, using Kbuild, the kernel's build system, will generate 
 a kernel module file named `hello.ko`.
 
